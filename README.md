@@ -1,16 +1,14 @@
-### Hi there 👋
+## Anton Kudyrka aka zkud
 
-<!--
-**zkud/zkud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work as software engineer and also design and develop my own projects as a hobby.
 
-Here are some ideas to get you started:
+Currenty working on [rapidcds](https://github.com/zkud/rapidcds) and looking forward for help with it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm also currently enjoing the rust programming language, feel free to contact me to discuss something related.
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zkud&count_private=true&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zkud&show_icons=true&theme=dark" />
+</a>
