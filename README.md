@@ -9,8 +9,9 @@ I work as software engineer and also design and develop my own projects as a hob
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zkud&show_icons=true&theme=dark&layout=compact&langs_count=10" />
 </a>
 
-Currenty working on [fallible-alloc](https://github.com/zkud/fallible-alloc) and looking forward for help with it.
+Currenty working on [fallible-alloc](https://github.com/zkud/fallible-alloc) and [simd-arrays-functions](https://github.com/zkud/simd-arrays-functions) and looking forward for help with it.
 
 [![Readme](https://github-readme-stats.vercel.app/api/pin/?username=zkud&repo=fallible-alloc&theme=dark)](https://github.com/zkud/fallible-alloc)
+[![Readme](https://github-readme-stats.vercel.app/api/pin/?username=zkud&repo=simd-arrays-functions&theme=dark)](https://github.com/zkud/simd-arrays-functions)
 
 I'm also currently enjoing the rust programming language, feel free to contact me to discuss something related.
