@@ -9,6 +9,8 @@ I work as a software engineer and also design and develop my own projects as a h
 
 ### Current Activities
 
+I'm on a military service, so I'm unlikely to respond you until the may 2022.
+
 Presently working on [simd-arrays-functions](https://github.com/zkud/simd-arrays-functions) and [rfraction](https://github.com/zkud/rfraction) and looking forward for new contributors.
 
 [![Readme](https://github-readme-stats.vercel.app/api/pin/?username=zkud&repo=simd-arrays-functions&theme=dark)](https://github.com/zkud/simd-arrays-functions)
