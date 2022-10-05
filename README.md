@@ -9,10 +9,7 @@ I work as a software engineer and also design and develop my own projects as a h
 
 ### Current Activities
 
-Presently working on [fs-find](https://github.com/zkud/fs-find), [cim](https://github.com/zkud/cim) and [rfraction](https://github.com/zkud/rfraction) and looking forward for new contributors.
+Presently working on and looking forward for new contributors:
 
-[![Readme](https://github-readme-stats.vercel.app/api/pin/?username=zkud&repo=fs-find&theme=dark)](https://github.com/zkud/fs-find) 
-[![Readme](https://github-readme-stats.vercel.app/api/pin/?username=zkud&repo=rfraction&theme=dark)](https://github.com/zkud/rfraction)
 [![Readme](https://github-readme-stats.vercel.app/api/pin/?username=zkud&repo=cim&theme=dark)](https://github.com/zkud/cim)
-
-I'm also currently enjoing the rust programming language, feel free to contact me to discuss something related.
+[![Readme](https://github-readme-stats.vercel.app/api/pin/?username=zkud&repo=open-cds-ast&theme=dark)](https://github.com/zkud/open-cds-ast)
