@@ -2,7 +2,7 @@
 
 ### Summary
 
-At the moment I'm a software engineer primary experiencied in **SAP CAP** (**Node.js** based), **Python** and **Rust**, who enjoys a lot to design and develop own open source projects as a hobby.
+At the moment I'm a software engineer primary experiencied in **SAP CAP** (**Node.js** based, but have some experience with **Java** too), **Python** and **Rust**, who enjoys a lot to design and develop own open source projects as a hobby.
 
 ![stats](https://github-readme-stats.vercel.app/api?username=zkud&count_private=true&show_icons=true&theme=dark)
 
