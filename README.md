@@ -10,7 +10,7 @@ At the moment I'm a software engineer primary experiencied in **SAP BTP**, **SAP
 
 Presently working on and looking forward to seeing your contributions:
 
-[![Readme](https://github-readme-stats.vercel.app/api/pin/?username=zkud&repo=open-cds-ast&theme=dark)](https://github.com/zkud/open-cds-ast)
+[![Readme](https://github-readme-stats.vercel.app/api/pin/?username=zkud&repo=open-cds-parser&theme=dark)](https://github.com/zkud/open-cds-parser)
 
 ### How to buy me a beer?
 
